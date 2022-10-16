@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -21,27 +20,3 @@ button {
   padding: 0;
 }
 
-=======
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-ul {
-  list-style: none;
-}
-
-a {
-  text-decoration: none;
-  color: #000;
-}
-
-button {
-  font-size: 100%;
-  font-family: inherit;
-  border: 0;
-  padding: 0;
-}
-
->>>>>>> 0a1d3449a737478b51974285fb1dce5e6351d7ab
