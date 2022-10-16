@@ -8,4 +8,4 @@
   Meu portfólio pessoal <a href="https://jonathanbenedito.github.io/portfolio" target="_blank">jonathanbenedito.github.io/portfolio</a> construído com HTML, CSS e JS e hospedado no GitHub
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://i.imgur.com/Gt4HvTr.png)
