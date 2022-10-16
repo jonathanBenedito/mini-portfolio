@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/jonathanBenedito/portfolio/main/src/imagens/logo.png" width="100" />
+  <img alt="Logo" src="https://i.imgur.com/xBH7zV8.png" width="100" />
 </div>
 <h1 align="center">
   jonathanbenedito.github.io/portfolio - Portfólio
