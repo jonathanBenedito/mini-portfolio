@@ -28,7 +28,10 @@
         <li class="aba selecionado" id="sobre-mim">
           <img src="./src/imagens/sobre.png" alt="ícone de sobre mim">
         </li>
-        <li class="aba" id="minhas-redes">
+        <li class="aba expansivel" id="trabalhos">
+          <img src="./src/imagens/portfolio-icone.png" alt="ícone de sobre mim">
+        </li>
+        <li class="aba expansivel" id="minhas-redes">
           <img src="./src/imagens/contato.png" alt="ícone de redes sociais">
         </li>
       </ul>
@@ -54,37 +57,132 @@
           </div>
         </div>
 
+        <div class="informacao" id="informacao-trabalhos">
+          <h3 class="sub-titulo">Meus Trabalhos</h3>
+
+          <div class="descricao projetos">
+            <div class="slider" id="slider">
+              <div class="slide ativo">
+                <a href="">
+                  <img class="imagem-projeto" src="https://picsum.photos/300/195" alt="">
+                </a>
+                         
+                <h4>Clipboard Landing Page</h4>
+    
+                <div class="acesso">
+                  <span class="icone-github"></span>
+                  <span class="icone-web"></span>
+                </div>
+                
+                <p class="informacao-trabalho">
+                  Sou um cidadão que faz programas para auxílios diários e desenvolvo
+                  algumas ferramentas para facilitar algum trabalho. Em minha juventude
+                  já desenvolvi um pequeno projeto em Visual Basic para o lugar onde ainda trabalho NA
+                  JH Informática, o qual consistia em fazer instalações de alguns programas sem a
+                </p>
+    
+                <p class="tecnologias">
+                  <span>HTML</span>
+                  <span>CSS</span>
+                  <span>Javascript</span>
+                </p>
+              </div>
+
+              <div class="slide">
+                <a href="">
+                  <img class="imagem-projeto" src="https://picsum.photos/300/195" alt="">
+                </a>
+                         
+                <h4>Huddle</h4>
+    
+                <div class="acesso">
+                  <span class="icone-github"></span>
+                  <a href="#website">
+                    <span class="icone-github"></span>
+                  </a>
+                </div>
+                
+                <p class="informacao-trabalho">
+                  Sou um cidadão que faz programas para auxílios diários e desenvolvo
+                  algumas ferramentas para facilitar algum trabalho. Em minha juventude
+                </p>
+    
+                <p class="tecnologias">
+                  <span>HTML</span>
+                  <span>Javascript</span>
+                </p>
+              </div>
+
+              <div class="slide">
+                <a href="">
+                  <img class="imagem-projeto" src="https://picsum.photos/300/195" alt="">
+                </a>
+                         
+                <h4>News</h4>
+    
+                <div class="acesso">
+                  <span class="icone-github"></span>
+                  <a href="#website">
+                    <span class="icone-github"></span>
+                  </a>
+                </div>
+                
+                <p class="informacao-trabalho">   
+                  já desenvolvi um pequeno projeto em Visual Basic para o lugar onde ainda trabalho NA
+                  JH Informática, o qual consistia em fazer instalações de alguns programas sem a
+                </p>
+    
+                <p class="tecnologias">
+                  <span>HTML</span>
+                  <span>CSS</span>
+                </p>
+              </div>
+
+              <div class="navegacao">
+                <button class="botao-navegacao desativado" id="esquerdo"><</button>
+
+                <div class="bullets-container"></div>
+                
+                <button class="botao-navegacao" id="direito">></button>
+              </div>   
+            </div>  
+          </div>
+        </div>
+
         <div class="informacao" id="informacao-minhas-redes">
           <h3 class="sub-titulo">Minhas redes</h3>
 
-          <ul class="redes-sociais">
-            <li>
-              <a href="./src/documentos/Curriculo - Jonathan W Benedito.pdf" download class="curriculo">Currículo</a>
-            </li>
-            <li>
-              <a href="https://www.linkedin.com/in/jonathanbenedito/" target="_blank" class="linkedin">LinkedIn</a>
-            </li>
-            <li>
-              <a href="https://github.com/jonathanBenedito" target="_blank" class="github">Github</a>
-            </li>
-            <li>
-              <a
-                href="https://api.whatsapp.com/send?phone=5519974076899&text=Ol%C3%A1%2C%20venha%20tomar%20uma%20x%C3%ADcara%20de%20caf%C3%A9%20e%20conversar%20juntos!"
-                target="_blank"
-                class="whatsapp"
-              >
-                WhatsApp
-              </a>
-            </li>
-            <li>
-              <a href="mailto:jonathan.valbe.jb@gmail.com" target="_blank" class="email">Email</a>
-            </li>
-          </ul>
+          <div class="descricao">
+            <ul class="redes-sociais">
+              <li>
+                <a href="./src/documentos/Curriculo - Jonathan W Benedito.pdf" download class="curriculo">Currículo</a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/in/jonathanbenedito/" target="_blank" class="linkedin">LinkedIn</a>
+              </li>
+              <li>
+                <a href="https://github.com/jonathanBenedito" target="_blank" class="github">Github</a>
+              </li>
+              <li>
+                <a
+                  href="https://api.whatsapp.com/send?phone=5519974076899&text=Ol%C3%A1%2C%20venha%20tomar%20uma%20x%C3%ADcara%20de%20caf%C3%A9%20e%20conversar%20juntos!"
+                  target="_blank"
+                  class="whatsapp"
+                >
+                  WhatsApp
+                </a>
+              </li>
+              <li>
+                <a href="mailto:jonathan.valbe.jb@gmail.com" target="_blank" class="email">Email</a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
   </main>
 
   <script src="./src/js/index.js"></script>
+  <script src="./src/js/slider.js"></script>
 </body>
 </html>
