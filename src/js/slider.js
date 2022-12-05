@@ -6,7 +6,6 @@ const botaoEsquerdo = slider.querySelector("#esquerdo");
 const botaoDireito = slider.querySelector("#direito");
 let index = 0;
 
-
 for(let i = 0; i < slides.length; i++) {
     const bullet = document.createElement('span');
     
