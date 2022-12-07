@@ -28,9 +28,9 @@
 
 ### 🖼 Fotos (Mobile)
 
-| <img alt="news homepage mobile showcase" src="design/mobile-design.png" height="450" />  | <img alt="news homepage mobile menu" src="design/mini-portfolio-trabalhos.png" height="450"/> | <img alt="news homepage mobile showcase" src="design/mini-portfolio-contato.png" height="450" />  | <img alt="news homepage mobile menu" src="design/mini-portfolio-mobile-animado.gif" height="450"/> |
+| <img alt="news homepage mobile showcase" src="design/mobile-design.png" height="450" />  | <img alt="news homepage mobile menu" src="design/mini-portfolio-trabalhos.png" height="450"/> | <img alt="news homepage mobile menu" src="design/mini-portfolio-mobile-animado.gif" height="450"/> |
 |:---:|:---:|:---:|:---:|
-| Smartphone layout | Meus trabalhos | Contato | Showcase
+| Smartphone layout | Meus trabalhos | Showcase
 
 ### 🔗 Links
 
