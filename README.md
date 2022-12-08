@@ -5,7 +5,7 @@
   Jonathan W Benedito - Mini-Portfólio
 </h1>
 <p align="center">
-  Meu mini-portfólio pessoal <a href="https://jonathanbenedito.github.io/portfolio" target="_blank">jonathanbenedito.github.io/mini-portfolio</a>, é um website que
+  Meu mini-portfólio pessoal <a href="https://jonathanbenedito.github.io/mini-portfolio" target="_blank">jonathanbenedito.github.io/mini-portfolio</a>, é um website que
  contém informações sobre mim e meus projetos, atualmente hospedado no <a href="https://pages.github.com/">GitHub-Pages</a>.
 </p>
 
@@ -34,7 +34,7 @@
 
 ### 🔗 Links
 
-Website: <a href="https://jonathanbenedito.github.io/portfolio" target="_blank">jonathanbenedito.github.io/mini-portfolio/</a>
+Website: <a href="https://jonathanbenedito.github.io/mini-portfolio" target="_blank">jonathanbenedito.github.io/mini-portfolio/</a>
 
 ### 🧱 Tecnologias
 
