@@ -55,6 +55,12 @@ h1, h3 {
   color: #48a386;
 }
 
+.cartao .minhas-informacoes .tecnologias {
+  font-size: 16px;
+  color: #02d08f;
+  font-weight: 400;
+}
+
 .cartao .conteudo{
   margin-top: 15px;
   transition: 0.5s ease;
@@ -69,7 +75,7 @@ h1, h3 {
 }
 
 .cartao .conteudo.expandido .descricao {
-  max-height: 425px;
+  max-height: 495px;
 }
 
 @keyframes slideup {
@@ -285,6 +291,11 @@ h1, h3 {
 
 .informacoes-abas .descricao .slider .slide.ativo {
   display: block;
+}
+
+.informacao .stacks-container {
+  display: inline-block;
+  margin-bottom: 20px;
 }
 
 .redes-sociais{
